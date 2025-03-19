@@ -1,0 +1,1 @@
+I learned how to set up a web development environment, create a basic HTML page, and use Git & GitHub for version control. I practiced creating branches, making commits, pushing code, and collaborating through pull requests.
